@@ -1,0 +1,17 @@
+
+# === Node ===
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# === Build Files ===
+dist/
+build/
+
+# === Logs ===
+*.log
+logs/
+
+# === System Files ===
+.DS_Store
+Thumbs.db
